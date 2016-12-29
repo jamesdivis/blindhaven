@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6B6AEA2A-EAB0-48F5-A7FD-04A70D0D1F39}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlindHaven/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="BlindHaven/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BlindHaven PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
